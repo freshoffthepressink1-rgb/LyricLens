@@ -1,0 +1,7 @@
+{
+  "name": "LyricLens AI",
+  "description": "An advanced music analysis tool that extracts lyrics and provides deep stylistic insights from any song using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
